@@ -1,0 +1,5 @@
+1. The hight the latitude, the lower the temprature. The lower the latitude, the higher the temprature. I believe this correlation between latitude and temprature exists due to the cities location in relation to the equator and poles.
+
+2. Cities at higher latitudes appear to have humidity levels between 60-100%
+
+3. Citites as a higher latitude seem to experience slightly more cloudiness and windiness compared to cities at lower latitudes
